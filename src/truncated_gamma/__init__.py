@@ -4,7 +4,7 @@ Truncated Gamma Random Variates Package
 A Python package to geneeate random variates from a truncated gamma distribution.
 """
 
-from .main import TruncatedGamma, truncgamma_rvs
+from .truncated_gamma import TruncatedGamma, truncgamma_rvs
 
 __version__ = "0.1.0"
 __author__ = "Wade K. Copeland"
