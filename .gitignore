@@ -1,0 +1,11 @@
+setup.sh
+.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.vscode/
+.idea/
+logs/
+tmp/
+.pytest_cache/
