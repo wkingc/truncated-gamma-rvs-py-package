@@ -1,7 +1,7 @@
 """
 Truncated Gamma Random Variates Package
 
-A Python package to geneeate random variates from a truncated gamma distribution.
+A Python package to generate random variates from a truncated gamma distribution.
 """
 
 from .truncated_gamma import TruncatedGamma, truncgamma_rvs

@@ -17,8 +17,16 @@ pip install truncated-gamma
 ```python
 from truncated_gamma import truncgamma_rvs
 
-# Generate 100,000 random variates from a gamma distribution truncated to the interval [0, 1000], where the mean is 100 and the standard deviation is 1/2 the value of the mean (e.g., the coefficient of variation).
-x = truncgamma_rvs(mean_target = 100, cv_target = 1/2, A = 0, B = 1000, size = 100000, random_state = 123)
+# Generate 100,000 random variates from a gamma distribution truncated 
+# to the interval [0, 1000], where the mean is 100 and the standard 
+# deviation is 1/2 the value of the mean (e.g., the coefficient of variation).
+x = truncgamma_rvs(
+    mean_target = 100, 
+    cv_target = 1/2, 
+    A = 0, 
+    B = 1000, 
+    size = 100000, 
+    random_state = 123)
 ```
 
 ## What is a Truncated Gamma Distribution?

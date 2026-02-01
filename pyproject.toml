@@ -7,7 +7,7 @@ name = "truncated-gamma"
 version = "0.1.0"
 description = "A Python package for generating random variates from a truncated gamma distribution."
 readme = "README.md"
-license = {file = "LICENSE"}
+license = "MIT"
 authors = [
     {name = "Wade K. Copeland", email = "wade@kingcopeland.com"}
 ]
@@ -16,7 +16,6 @@ classifiers = [
     "Intended Audience :: Developers",
     "Intended Audience :: Science/Research",
     "Intended Audience :: Statisticians",
-    "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3.9",
