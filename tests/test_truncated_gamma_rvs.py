@@ -1,4 +1,4 @@
-from truncated_gamma import TruncatedGamma, truncgamma_rvs
+from truncated_gamma_rvs import TruncatedGamma, truncgamma_rvs
 import numpy as np
 import numpy.testing as npt
 import pytest

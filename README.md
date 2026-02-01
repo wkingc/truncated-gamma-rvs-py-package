@@ -9,13 +9,13 @@ A Python package for generating random variates from a truncated gamma distribti
 ## Installation
 
 ```bash
-pip install truncated-gamma
+pip install truncated-gamma-rvs
 ```
 
 ## Quick Start
 
 ```python
-from truncated_gamma import truncgamma_rvs
+from truncated_gamma_rvs import truncgamma_rvs
 
 # Generate 100,000 random variates from a gamma distribution truncated 
 # to the interval [0, 1000], where the mean is 100 and the standard 
