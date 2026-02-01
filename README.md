@@ -98,11 +98,11 @@ For a complete usage guide, see <https://www.kingcopeland.com/truncated-gamma-rv
 If you use this package in your research, please consider citing it:
 
 ```bibtex
-@software{copeland2026truncated,
+@software{copeland2026tgammarvs,
   author = {Wade K. Copeland},
-  title = {truncated-gamma: A Python package for truncated gamma distributions},
-  url = {https://github.com/wkingc/truncated-gamma-rvs-py-package},
-  version = {0.1.0},
+  title = {{truncated-gamma-rvs: A Python package for truncated gamma distributions}},
+  url = {https://pypi.org/project/truncated-gamma-rvs/},
+  version = {0.1.1},
   year = {2026}
 }
 ```
