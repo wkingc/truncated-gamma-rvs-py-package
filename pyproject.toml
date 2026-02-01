@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "truncated-gamma-rvs"
-version = "0.1.5"
+version = "0.1.6"
 description = "A Python package for generating random variates from a truncated gamma distribution."
 readme = "README.md"
 license = "MIT"
@@ -48,9 +48,6 @@ Issues = "https://github.com/wkingc/truncated-gamma-rvs-py-package/issues"
 
 [tool.setuptools.packages.find]
 where = ["src"]
-
-[tool.setuptools.package-dir]
-"" = "src"
 
 [tool.black]
 line-length = 88

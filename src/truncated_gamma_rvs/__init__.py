@@ -6,9 +6,9 @@ A Python package to generate random variates from a truncated gamma distribution
 
 from .truncated_gamma_rvs import TruncatedGamma, truncgamma_rvs
 
-__version__ = "0.1.5"
+__version__ = "0.1.6"
 __author__ = "Wade K. Copeland"
 __email__ = "wade@kingcopeland.com"
 
-# This controls what gets imported with "from truncated_gamma import *"
+# This controls what gets imported with "from truncated_gamma_rvs import *"
 __all__ = ["TruncatedGamma", "truncgamma_rvs"]
