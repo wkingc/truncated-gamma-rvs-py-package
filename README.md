@@ -102,7 +102,7 @@ If you use this package in your research, please consider citing it:
     author = {Wade K. Copeland},
     title = {{truncated-gamma-rvs: A Python package for generating random variates from a truncated gamma distribution}},
     url = {https://pypi.org/project/truncated-gamma-rvs/},
-    version = {0.1.4},
+    version = {0.1.5},
     year = {2026}
 }
 ```
