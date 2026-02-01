@@ -4,7 +4,7 @@
 
 [![](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 
-A Python package for generating random variates from a truncated gamma distribtion.
+A Python package for generating random variates from a truncated gamma distribution.
 
 ## Installation
 
@@ -99,10 +99,10 @@ If you use this package in your research, please consider citing it:
 
 ```bibtex
 @software{copeland2026tgammarvs,
-  author = {Wade K. Copeland},
-  title = {{truncated-gamma-rvs: A Python package for truncated gamma distributions}},
-  url = {https://pypi.org/project/truncated-gamma-rvs/},
-  version = {0.1.3},
-  year = {2026}
+    author = {Wade K. Copeland},
+    title = {{truncated-gamma-rvs: A Python package for generating random variates from a truncated gamma distribution}},
+    url = {https://pypi.org/project/truncated-gamma-rvs/},
+    version = {0.1.4},
+    year = {2026}
 }
 ```
