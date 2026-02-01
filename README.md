@@ -1,4 +1,4 @@
-# truncated-gamma
+# truncated-gamma-rvs
 
 [![](https://github.com/wkingc/truncated-gamma-rvs-py-package/actions/workflows/python-package.yml/badge.svg)](https://github.com/wkingc/truncated-gamma-rvs-py-package/actions/workflows/python-package.yml)
 
@@ -102,7 +102,7 @@ If you use this package in your research, please consider citing it:
   author = {Wade K. Copeland},
   title = {{truncated-gamma-rvs: A Python package for truncated gamma distributions}},
   url = {https://pypi.org/project/truncated-gamma-rvs/},
-  version = {0.1.2},
+  version = {0.1.3},
   year = {2026}
 }
 ```
